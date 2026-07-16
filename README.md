@@ -1,2 +1,2 @@
-# C-plus-plus-exercise
-I want to join Algorithm competition,so,I need to use c++ to practice my skill.
+# C-plus-plus-exercise to algorithm test
+Algorithm test and answer
